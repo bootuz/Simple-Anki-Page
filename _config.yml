@@ -1,3 +1,5 @@
-name: Simple Anki
 title: Simple Anki
 theme: jekyll-theme-cayman
+
+navbar-links:
+  About Me: "aboutme"
