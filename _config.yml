@@ -1,5 +1,7 @@
 title: Simple Anki
 theme: jekyll-theme-cayman
 
+author: Some Person
+
 navbar-links:
   About Me: "aboutme"
