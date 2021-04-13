@@ -1,4 +1,4 @@
-## Hello there!
+## Intro
 
 I'm Astemir Boziev, working as QA Automation Engineer and I've just started my jorney into iOS development. My first project is called Simple Anki. This app is intended for people who are learning a new language and who need to memorize a large number of words in a foreign language.
 
