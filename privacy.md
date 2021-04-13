@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "PAGE TITLE"
-permalink: privacy
+permalink: /privacy/
 ---
 
 Astemir Boziev built the Simple Anki app as a Free app. This SERVICE is provided by Astemir Boziev at no cost and is intended for use as is.
