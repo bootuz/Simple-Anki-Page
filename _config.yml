@@ -1,4 +1,5 @@
 title: Simple Anki
 theme: jekyll-theme-cayman
 
-author: Astemir Boziev
+github:
+  owner_name: Astemir Boziev
