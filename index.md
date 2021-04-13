@@ -7,5 +7,5 @@ I'm Astemir Boziev, working as full-time QA Automation Engineer and also I'm tea
 **Simple Anki** as its name says is a simple and also free app that helps you create a collection of words you want to memorize.
 
 ### Contact
-You can contact me with this email mailto:help@simpleanki.com
+You can contact me with this email help@simpleanki.com
 
