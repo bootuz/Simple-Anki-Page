@@ -5,4 +5,4 @@ show_downloads: true
 github:
   owner_name: Astemir Boziev
   repository_name: Simple Anki
-  zip_url: https://apps.apple.com/ru/app/simple-anki/id1562385336
+  app_store_url: https://apps.apple.com/ru/app/simple-anki/id1562385336
