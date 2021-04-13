@@ -1,10 +1,8 @@
 ## Hello there!
 
-You can use the [editor on GitHub](https://github.com/bootuz/simple_anki/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I'm Astemir Boziev, QA Automation Engineer and I've just started my jorney into iOS development. My first project is called Simple Anki. This app is intended for people who are learning a new language and who need to memorize a large number of words in a foreign language.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### About Simple Anki
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
